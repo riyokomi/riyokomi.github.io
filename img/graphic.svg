@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<circle fill="#231F20" stroke="#F1F2F2" stroke-miterlimit="10" cx="50" cy="50" r="49">
+
+    <animateTransform attributeName="transform"
+    	attributeType="XML"
+    	type="rotate"
+    	from="0 50 50"
+    	to="360 50 50"
+    	dur="10s"
+    	repeatCount="indefinite" />
+
+</circle>
+
+<circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="50" cy="50" r="40"/>
+<path fill="#231F20" stroke="#F1F2F2" stroke-miterlimit="10" d="M50,67.1L50,67.1c-2.2,0-4-1.8-4-4V36.9c0-2.2,1.8-4,4-4h0
+	c2.2,0,4,1.8,4,4v26.2C54,65.3,52.2,67.1,50,67.1z"/>
+</svg>
